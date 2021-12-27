@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </p>
 
+### :briefcase: WORK
+* H-Vehichle Company
+  - Data Preprocessing
+  - XAI
+  - Image Recognition
+
 ### :computer: INTERESTS
 * ML & DL
   - XAI
@@ -42,9 +48,3 @@ Here are some ideas to get you started:
 * Hanium ICT Mentoring(2020)
   - Thermal camera detection & prediction of epidemic system
   - ALL-in-one Healthcare Chatbot
-
-### :briefcase: WORK
-* H-Vehichle Company
-  - Data Preprocessing
-  - XAI
-  - Image Recognition
