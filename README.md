@@ -37,8 +37,9 @@ Here are some ideas to get you started:
   - Recommendation System
 * Data Anayltics
   - Visualization
-* Data Engineering
+* Backends
   - DB
+  - Data Engineering
 
 ### 🌱 PROJECTS
 * SOYO
