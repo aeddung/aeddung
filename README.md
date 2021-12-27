@@ -42,3 +42,9 @@ Here are some ideas to get you started:
 * Hanium ICT Mentoring(2020)
   - Thermal camera detection & prediction of epidemic system
   - ALL-in-one Healthcare Chatbot
+
+### :briefcase: WORK
+* H-Vehichle Company
+  - Data Preprocessing
+  - XAI
+  - Image Recognition
