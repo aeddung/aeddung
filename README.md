@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 * Data Anayltics
   - Visualization
 * Data Engineering
+  - DB
 
 ### 🌱 PROJECTS
 * SOYO
   - Forecast of trot competition called "Miss Trot"
   - IT Review collection website
-  - Forecast of 2022 South Korean presidential election
-* Hanium ICT Mentoring
+  - Forecast of 2022 South Korean presidential election <- ing
+* Hanium ICT Mentoring(2020)
   - Thermal camera detection & prediction of epidemic system
-  - 
+  - ALL-in-one Healthcare Chatbot
