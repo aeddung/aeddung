@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 🌱 PROJECTS
 * SOYO
-  - Forecast of trot competition called "Miss Trot"
+  - [Forecast of trot competition called "Miss Trot"](http://trotpredict.soyo.or.kr/)
   - [IT Review bot website](http://it-reviewer.soyo.or.kr/)
   - Forecast of 2022 South Korean presidential election <- ing
 * Hanium ICT Mentoring(2020)
