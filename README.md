@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### 🌱 PROJECTS
 * SOYO
   - Forecast of trot competition called "Miss Trot"
-  - IT Review collection website
+  - [IT Review bot website](http://it-reviewer.soyo.or.kr/)
   - Forecast of 2022 South Korean presidential election <- ing
 * Hanium ICT Mentoring(2020)
   - Thermal camera detection & prediction of epidemic system
