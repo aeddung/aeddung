@@ -48,4 +48,6 @@ Here are some ideas to get you started:
   - Forecast of 2022 South Korean presidential election <- ing
 * Hanium ICT Mentoring(2020)
   - [Thermal camera detection & prediction of epidemic system](https://www.youtube.com/watch?v=KaUXjXKriTI&feature=youtu.be)
-  - [ALL-in-one Healthcare Chatbot](https://www.youtube.com/watch?v=AEnpX8FWiC4)
+  - [ALL-in-one Healthcare Chatbot](https://www.youtube.com/watch?v=AEnpX8FWiC4) - Awarded
+* Dacon(2021)
+  - [Forecast of gas supply&demand](https://dacon.io/competitions/official/235830/overview/description) - Awarded
