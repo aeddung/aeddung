@@ -47,5 +47,5 @@ Here are some ideas to get you started:
   - [IT Review bot website](http://it-reviewer.soyo.or.kr/)
   - Forecast of 2022 South Korean presidential election <- ing
 * Hanium ICT Mentoring(2020)
-  - Thermal camera detection & prediction of epidemic system
-  - ALL-in-one Healthcare Chatbot
+  - [Thermal camera detection & prediction of epidemic system](https://www.youtube.com/watch?v=KaUXjXKriTI&feature=youtu.be)
+  - [ALL-in-one Healthcare Chatbot](https://www.youtube.com/watch?v=AEnpX8FWiC4)
